@@ -11,17 +11,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-<html>
-  <body>
-<h1>Lingaraj Sajjan</h1>
-  </body>
-  </html>
+Lingaraj Sajjan
+Education         :       MCA 
+Work Experience   :       4 + years
+Resume            :       
+LinkedIn          :       [Link](www.linkedin.com/in/lingaraj-sajjan-545a0784)
+Desigination      :       Senior Software Engineer
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
